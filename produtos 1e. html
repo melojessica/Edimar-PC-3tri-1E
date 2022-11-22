@@ -1,20 +1,33 @@
-!DOCTYPER html>
- <html lang="py-br">
+                                                                                                            !DOCTYPER html>
+ <html lang="pt-br">
   <head>
      <meta charset="UTF-8">
      <title>O PETSHOP</title>
+     <link rel= "stylesheet" href='"style.css">
   </head>
+
   <body>
+    <header>
+      <hl class= "titulo -principal" >Sobre o Petshop </hl>
+      </header>
+      <img id ="banner" src="banner.jpg">
+      <div class="principal">
+          <h2 class= "titulo-centralizado"> Sobre o PETSHOP</H2>
 
- <hl>Sobre o Petshop </hl>
+          <p> Localizada no coração da cidade </strong>,o petshop traz para o mercado o que há de melhor para seu pet.</p>
+   Fundado em 2000,o petshop é destaque na cidade e consquista novos clientes a cada dia.</p>
 
- <p> Localizada no coração da cidade </strong>,o petshop traz para o mercado o que há de melhor para seu pet.</p>
-   Fundado em 2000,o petshop é destaque na cidade e consquista novos clientes a cada dia.
-
- <p><em>Nossa missão é <strong>dar amor e carinho para vossos animais.</strong>.</em></p>
+ <p id= "missao"><em>Nossa missão é <strong>dar amor e carinho para vossos animais.</strong>.</em></p>
 
  <p>*Venha conferir nosso profissionalismo*</p>
-    </body>  
- </html>
- 
-<img crs="banner">
+    </div> 
+     
+   <div class="beneficios">
+        <h3 class="titulo-centralizado">Beneficios</h3>
+
+   
+        <ul>
+             <li class="itens">Atendimento aos Clientes</li>
+             <li class="itens">Espaço Diferenciado</li>
+             <li class="itens">Localização</li>
+             <li class+
